@@ -7722,12 +7722,6 @@
     },
     {
       "userId": 1,
-      "postId": 5,
-      "status": true,
-      "id": 905
-    },
-    {
-      "userId": 1,
       "postId": 167,
       "status": true,
       "id": 906
@@ -7836,7 +7830,7 @@
       "userId": 20,
       "classifiedDate": "2023-10-20T09:02:53",
       "itemTypeId": 1,
-      "title": "Dentside Rides Shirt - Original",
+      "title": "Dentside Rides Shirt",
       "body": "Step out in true Dentside fashion with our signature tee! Featuring the beloved front view of the 1978 F100, this shirt is a tribute to the timeless beauty and ruggedness of Ford's '73-'79 era. Made from soft, breathable cotton, it ensures comfort throughout the day, whether you're wrenching under the hood or cruising the town. Its versatile design pairs well with jeans or shorts, making it a staple for every Ford enthusiast's wardrobe. Wear your love for the Dentside legacy on your chest and let the world know about the golden age of Ford trucks!",
       "location": "Savannah, Georgia",
       "price": "25",
@@ -7846,7 +7840,7 @@
       "userId": 7,
       "classifiedDate": "2023-10-20T09:05:02",
       "itemTypeId": 1,
-      "title": "Dentside Rides Shirt - Classic Grey",
+      "title": "Dentside Rides Shirt",
       "body": "Embrace a touch of vintage flair with our washed grey Dentside Rides tee. Set against a retro grey backdrop, the iconic front view of the 1978 F100 takes center stage, evoking memories of days gone by. Crafted from soft, pre-washed cotton, this shirt not only offers ultimate comfort but also a worn-in look and feel reminiscent of the trucks it celebrates. Perfect for those who appreciate a blend of nostalgia and style, this tee is a nod to the enduring charm of the '73-'79 Ford series. Make a subtle yet impactful statement, and let the legacy of Dentside trucks live on with every wear!",
       "location": "Honolulu, Hawaii",
       "price": "25",
@@ -8374,9 +8368,10 @@
       "eventEndDate": "2023-11-12T18:00:00",
       "eventTypeId": 2,
       "multiDayEvent": true,
-      "title": "Dentside Swap Meet Weekend",
+      "title": "Swap Meet Weekend",
       "body": "Gear up for the Dentside Swap Meet Weekend! This is the perfect opportunity for enthusiasts to buy, sell, and trade parts specialized for 1973-1979 Ford trucks. Whether you're looking for that elusive part or aiming to declutter your garage, this event is for you. Food stalls and entertainment will be available throughout the weekend.",
-      "location": "Denver, CO"
+      "location": "Denver, CO",
+      "eventImageUrl": "https://i.ibb.co/hHqnbw3/DALL-E-2023-10-25-13-15-01-Photo-style-poster-showcasing-a-vibrant-scene-of-a-busy-swap-meet-with-va.png"
     },
     {
       "id": 3,
@@ -8385,9 +8380,10 @@
       "eventEndDate": "2023-12-05T17:00:00",
       "eventTypeId": 3,
       "multiDayEvent": false,
-      "title": "Dentside December Cruise",
+      "title": "December Cruise",
       "body": "Get ready to roll out with fellow Dentside lovers for our December Cruise! We'll be taking a scenic route around town, showcasing our beautiful 1973-1979 Ford trucks. This is a great opportunity to socialize, share stories, and admire the beauty of these classic trucks. Make sure your ride is ready for this unforgettable event!",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "eventImageUrl": "https://i.ibb.co/c6JWvdf/DALL-E-2023-10-25-13-15-02-Illustration-style-poster-depicting-a-scenic-cruise-around-San-Francisco.png"
     },
     {
       "id": 4,
@@ -8396,9 +8392,10 @@
       "eventEndDate": "2024-01-15T13:00:00",
       "eventTypeId": 4,
       "multiDayEvent": false,
-      "title": "Dentside Off-Roading Day",
+      "title": "Off-Roading Day",
       "body": "Kick off the new year with a thrilling off-roading adventure! If you've got a 1973-1979 Ford truck adapted for off-road conditions, this is the event for you. We'll be exploring local trails and having a blast. Make sure to prepare your truck and bring necessary gear!",
-      "location": "Moab, UT"
+      "location": "Moab, UT",
+      "eventImageUrl": "https://i.ibb.co/q5XM4K2/DALL-E-2023-10-25-13-15-04-Photo-style-poster-showcasing-rugged-terrains-with-1973-1979-Ford-trucks.png"
     },
     {
       "id": 5,
@@ -8407,9 +8404,10 @@
       "eventEndDate": "2024-02-10T16:00:00",
       "eventTypeId": 5,
       "multiDayEvent": false,
-      "title": "Dentside Drag Race Day",
+      "title": "Drag Race Day",
       "body": "Feel the adrenaline rush at the Dentside Drag Race Day! Whether you're racing or just spectating, it's going to be a day filled with excitement. Compete with fellow 1973-1979 Ford truck owners and see who's got the fastest ride. Trophies and bragging rights are up for grabs!",
-      "location": "Daytona Beach, FL"
+      "location": "Daytona Beach, FL",
+      "eventImageUrl": "https://i.ibb.co/mBnHNHd/DALL-E-2023-10-25-13-15-03-Illustration-of-a-drag-racing-strip-with-1973-1979-Ford-trucks-speeding-d.png"
     },
     {
       "id": 6,
@@ -8418,9 +8416,10 @@
       "eventEndDate": "2024-03-08T15:00:00",
       "eventTypeId": 6,
       "multiDayEvent": false,
-      "title": "Dentside Charity Drive",
+      "title": "Charity Drive",
       "body": "Join us for the Dentside Charity Drive! We're organizing a special event where truck owners can give back to the community. Bring non-perishable food items, toys, or make a monetary donation. Let's come together and make a difference!",
-      "location": "Seattle, WA"
+      "location": "Seattle, WA",
+      "eventImageUrl": "https://i.ibb.co/0cHwdt7/DALL-E-2023-10-25-13-18-21-Illustration-style-poster-depicting-a-city-skyline-with-1973-1979-Ford-tr.png"
     },
     {
       "id": 7,
@@ -8429,9 +8428,10 @@
       "eventEndDate": "2024-04-14T17:00:00",
       "eventTypeId": 2,
       "multiDayEvent": true,
-      "title": "Dentside Spring Swap Meet",
+      "title": "Spring Swap Meet",
       "body": "Spring is here, and so is the Dentside Spring Swap Meet! Over the course of three days, enthusiasts will have the chance to buy, sell, and trade parts specialized for 1973-1979 Ford trucks. It's the perfect time to find that part you've been searching for or to sell items you no longer need.",
-      "location": "Nashville, TN"
+      "location": "Nashville, TN",
+      "eventImageUrl": "https://i.ibb.co/vHCWs3V/DALL-E-2023-10-25-13-18-22-Photo-style-poster-showcasing-a-bustling-swap-meet-under-cherry-blossom-t.png"
     },
     {
       "id": 8,
@@ -8440,9 +8440,10 @@
       "eventEndDate": "2024-05-05T18:00:00",
       "eventTypeId": 3,
       "multiDayEvent": false,
-      "title": "Dentside May Cruise",
+      "title": "May Cruise",
       "body": "Celebrate spring with the Dentside May Cruise! Drive around town with fellow enthusiasts, showcasing the beauty of 1973-1979 Ford trucks. It's a great way to meet new people, share stories, and enjoy the warmer weather. Don't miss out on this fun-filled event!",
-      "location": "Phoenix, AZ"
+      "location": "Phoenix, AZ",
+      "eventImageUrl": "https://i.ibb.co/0Qxwm0q/DALL-E-2023-10-25-13-18-23-Illustration-of-a-sunny-day-with-a-convoy-of-1973-1979-Ford-trucks-cruisi.png"
     },
     {
       "id": 9,
@@ -8451,9 +8452,10 @@
       "eventEndDate": "2024-06-10T15:00:00",
       "eventTypeId": 4,
       "multiDayEvent": false,
-      "title": "Dentside Summer Off-Roading",
+      "title": "Summer Off-Roading",
       "body": "Embrace the summer sun with a thrilling off-roading adventure! Gather with fellow Dentside enthusiasts and explore challenging terrains. Ensure your 1973-1979 Ford truck is prepped for the adventure. Bring along your friends and make it a day to remember!",
-      "location": "Boulder, CO"
+      "location": "Boulder, CO",
+      "eventImageUrl": "https://i.ibb.co/MnyhJXM/DALL-E-2023-10-25-13-18-23-Photo-style-poster-depicting-a-vast-off-roading-terrain-with-mountains-in.png"
     },
     {
       "id": 10,
@@ -8462,9 +8464,10 @@
       "eventEndDate": "2024-07-15T18:00:00",
       "eventTypeId": 1,
       "multiDayEvent": false,
-      "title": "Dentside Midsummer Showcase",
+      "title": "Midsummer Showcase",
       "body": "The peak of summer calls for a grand showcase! Display your 1973-1979 Ford truck and stand a chance to win exciting prizes. Categories include Best Original Condition, Best Restoration, and Best Custom Modification. Join us for a day of fun, music, and trucks!",
-      "location": "Miami, FL"
+      "location": "Miami, FL",
+      "eventImageUrl": "https://i.ibb.co/cyd0CL1/DALL-E-2023-10-25-13-18-25-Illustration-style-poster-featuring-a-sunlit-open-air-venue-with-various.png"
     },
     {
       "id": 11,
@@ -8473,9 +8476,10 @@
       "eventEndDate": "2024-08-09T17:00:00",
       "eventTypeId": 2,
       "multiDayEvent": true,
-      "title": "Dentside August Swap Extravaganza",
+      "title": "August Swap Extravaganza",
       "body": "August brings the biggest swap meet of the year! Over three days, dive into a treasure trove of parts, accessories, and memorabilia. Whether you're a buyer, seller, or just looking to mingle with fellow enthusiasts, this event promises something for everyone.",
-      "location": "Chicago, IL"
+      "location": "Chicago, IL",
+      "eventImageUrl": "https://i.ibb.co/XjVph9d/DALL-E-2023-10-25-13-18-26-Photo-style-poster-showcasing-a-lively-swap-meet-scene-in-an-urban-settin.png"
     },
     {
       "id": 12,
@@ -8484,9 +8488,10 @@
       "eventEndDate": "2024-09-05T19:00:00",
       "eventTypeId": 3,
       "multiDayEvent": false,
-      "title": "Dentside September Sunset Cruise",
+      "title": "September Sunset Cruise",
       "body": "As summer winds down, join us for a serene sunset cruise. Drive through picturesque routes, enjoy the cool breeze, and bond with fellow Dentside lovers. It's the perfect way to bid farewell to summer and welcome the fall season.",
-      "location": "San Diego, CA"
+      "location": "San Diego, CA",
+      "eventImageUrl": "https://i.ibb.co/gDjS3Zc/DALL-E-2023-10-25-13-18-26-Illustration-of-a-coastal-drive-during-sunset-with-a-line-of-1973-1979-Fo.png"
     },
     {
       "id": 13,
@@ -8495,9 +8500,10 @@
       "eventEndDate": "2024-10-03T16:00:00",
       "eventTypeId": 5,
       "multiDayEvent": false,
-      "title": "Dentside Autumn Rally",
+      "title": "Autumn Rally",
       "body": "Experience the thrill of competition at the Dentside Autumn Rally! Navigate challenging courses, test your driving skills, and compete against fellow Dentside enthusiasts. Whether you're a seasoned racer or a first-timer, this event promises adrenaline-pumping action and fun.",
-      "location": "Atlanta, GA"
+      "location": "Atlanta, GA",
+      "eventImageUrl": "https://i.ibb.co/6w09XLR/DALL-E-2023-10-25-13-19-56-Illustration-poster-of-a-racing-track-with-1973-1979-Ford-trucks-navigati.png"
     },
     {
       "id": 14,
@@ -8506,9 +8512,10 @@
       "eventEndDate": "2024-11-14T17:00:00",
       "eventTypeId": 2,
       "multiDayEvent": true,
-      "title": "Dentside Winter Swap Meet",
+      "title": "Winter Swap Meet",
       "body": "Winter is approaching, and it's the perfect time to gear up! Join us for the Dentside Winter Swap Meet. Over three days, explore a vast collection of parts, accessories, and more. Whether you're looking to buy, sell, or simply browse, this event is a haven for truck enthusiasts.",
-      "location": "Boston, MA"
+      "location": "Boston, MA",
+      "eventImageUrl": "https://i.ibb.co/NS7hb0h/DALL-E-2023-10-25-13-19-55-Photo-poster-with-a-backdrop-of-a-wintry-Boston-street-featuring-parked-1.png"
     },
     {
       "id": 15,
@@ -8517,9 +8524,10 @@
       "eventEndDate": "2024-12-10T20:00:00",
       "eventTypeId": 6,
       "multiDayEvent": false,
-      "title": "Dentside Charity Drive - Holiday Edition",
+      "title": "Charity Drive - Holiday Edition",
       "body": "The season of giving is upon us! Join the Dentside community for our special Holiday Edition Charity Drive. Bring toys, non-perishable food items, or make a monetary donation. Let's spread joy and make a difference in the lives of those less fortunate.",
-      "location": "New York, NY"
+      "location": "New York, NY",
+      "eventImageUrl": "https://i.ibb.co/gRdrJGz/DALL-E-2023-10-25-13-19-50-Photo-poster-of-a-vibrant-city-street-in-New-York-during-the-festive-seas.png"
     },
     {
       "id": 16,
@@ -8528,9 +8536,10 @@
       "eventEndDate": "2024-12-20T15:00:00",
       "eventTypeId": 1,
       "multiDayEvent": false,
-      "title": "Dentside Festive Showcase",
+      "title": "Festive Showcase",
       "body": "Celebrate the festive season with a grand showcase of 1973-1979 Ford trucks. Revel in the holiday spirit, display your truck, and stand a chance to win exciting prizes. Join us for a day filled with festive cheer, music, and the beauty of classic trucks.",
-      "location": "Los Angeles, CA"
+      "location": "Los Angeles, CA",
+      "eventImageUrl": "https://i.ibb.co/CBZt93t/DALL-E-2023-10-25-13-19-54-Illustration-poster-showcasing-a-festive-backdrop-with-1973-1979-Ford-tru.png"
     }
   ]
 }
