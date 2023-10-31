@@ -7743,6 +7743,18 @@
       "postId": 18,
       "status": true,
       "id": 910
+    },
+    {
+      "userId": 1,
+      "postId": 5,
+      "status": true,
+      "id": 911
+    },
+    {
+      "userId": 1,
+      "postId": 111,
+      "status": true,
+      "id": 912
     }
   ],
   "classifieds": [
@@ -7807,7 +7819,7 @@
       "id": 7
     },
     {
-      "userId": 27,
+      "userId": 1,
       "classifiedDate": "2023-10-20T08:58:20",
       "itemTypeId": 1,
       "title": "Dentside Rides Hoodie",
